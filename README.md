@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/3432eb58-6a99-49c2-ab00-9420e56ef4ef" alt="mariocode" width="300"/>
 </p>
 
-Through deep technical work and continuous learning. Currently, I’m studying at Holberton School and Princess Nourah University, where I’m diving into systems programming, automation, and AI.
+Through deep technical work and continuous learning. Currently, I’m studying at Holberton School and Princess Nourah University, where I’m diving into systems programming, Data, and AI.
 
 I’m the founder of AtharTech — a student-driven initiative that empowers youth with technical skills, mentorship opportunities, and innovation-focused programs. At AtharTech, I’ve led workshops and hands-on projects that blend design thinking with real challenges and collaborative learning.
 
