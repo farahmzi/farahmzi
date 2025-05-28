@@ -1,10 +1,11 @@
-## Hi there I’m Farah👋
+## Hi there👋
 <h3 align="center">✨ A tech-driven mind, building meaningful systems from the ground up</h3>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3432eb58-6a99-49c2-ab00-9420e56ef4ef" alt="mariocode" width="300"/>
 </p>
 
-Through deep technical work and continuous learning. Currently, I’m studying at Holberton School and Princess Nourah University, where I’m diving into systems programming, Data, and AI.
+I’m Farah, a software engineering student passionate about solving real problems through deep technical work and continuous learning.
+Currently, I’m studying at Holberton School and Princess Nourah University, where I’m diving into systems programming, data, and artificial intelligence.
 
 I’m the founder of AtharTech — a student-driven initiative that empowers youth with technical skills, mentorship opportunities, and innovation-focused programs. At AtharTech, I’ve led workshops and hands-on projects that blend design thinking with real challenges and collaborative learning.
 
